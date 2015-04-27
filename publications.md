@@ -3,7 +3,6 @@ layout: page
 title: Publications
 ---
 
-Here is a list of my publications.
 &#42; Indicates equal contribution.
 &#8224; Indicates corresponding author.
 
