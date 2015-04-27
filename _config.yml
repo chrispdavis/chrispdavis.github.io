@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Chris Davis
-tagline:          'Welcome'
+tagline:          'Chris Davis'
 description:      'Welcome to my site!'
 url:              https://chrispdavis.github.io/
 baseurl:          https://chrispdavis.github.io/
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/chrispdavis/chrispdavis.github.io/
+  repo:           https://github.com/chrispdavis/
